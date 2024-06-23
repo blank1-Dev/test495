@@ -1,5 +1,5 @@
 {
-  "name": "MidnightPurple3",
+  "name": "MidnightPurple4",
   "is_dark": true,
   "colors": {
     "accent-color": "#25863c",
@@ -16,8 +16,8 @@
     "secondary-content": "#c9d1d9",
     "tertiary-content": "#c9d1d9",
     "timeline-text-secondary-color": "#8b949e",
-    "timeline-highlights-color": "#252525",
-    "reaction-row-button-selected-bg-color": "#132338",
+    "timeline-highlights-color": "#10003f",
+    "reaction-row-button-selected-bg-color": "#10003f",
     "username-colors": [
       "#f85149",
       "#d29922",
